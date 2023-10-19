@@ -1,4 +1,4 @@
-Bomberman V0.9
+Bomberman V0.20
 --------------------
 
 Screen:
@@ -11,7 +11,7 @@ Screen:
 
 PRESS SPACE to drop bomb !
 
-Dev Info ////// (old):
+Dev Info :
 ---------
 
 - We have now tile generation map, for now the map is an (15 x 15) tile for 40 pixels each. 
@@ -26,7 +26,7 @@ Dev Info ////// (old):
 
 ///////// (old)
 
-- Version 0.20 alpha.
+- Version 0.20 alpha. // New
 
 
 Environment:
