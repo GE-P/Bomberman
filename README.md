@@ -4,14 +4,14 @@ Bomberman V0.9
 Screen:
 -------
 
-<img src="https://i.ibb.co/RbPsXtS/bomber09.png" alt="screen" title="screen">
+![Alt text](docs/bomber20.png)
 
 
 -------
 
 PRESS SPACE to drop bomb !
 
-Dev Info:
+Dev Info ////// (old):
 ---------
 
 - We have now tile generation map, for now the map is an (15 x 15) tile for 40 pixels each. 
@@ -23,7 +23,10 @@ Dev Info:
 - The character is now big enough, good size !
 - Menu added.
 - Added server and client support.
-- Version 0.09 alpha.
+
+///////// (old)
+
+- Version 0.20 alpha.
 
 
 Environment:
